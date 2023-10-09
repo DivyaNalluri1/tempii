@@ -1,0 +1,35 @@
+body{
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20220125/pngtree-fall-of-temperature-ice-winter-fall-of-temperature-photo-image_550592.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.head{
+    text-align: center;
+    color:brown;
+}
+.fc
+{
+    text-align: center;
+    font-size: 30px;
+}
+.fct{
+    width: 200px;
+    text-align: center;
+    height: 20px;
+}
+.cf
+{
+    text-align: center;
+    font-size: 30px;
+}
+.cft{
+    width: 200px;
+    text-align: center;
+    height: 20px;
+}
+#result{
+    font-weight: bold;
+    font-size: 30px;
+    color:gold;
+    text-align: center;
+}
